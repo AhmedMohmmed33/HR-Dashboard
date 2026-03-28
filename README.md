@@ -25,7 +25,7 @@ You can explore the interactive dashboard through the live link below:
 ---
 
 ### 1. Home Page
-![Overview](pages/Cover.png)
+![Overview](pages/cover.png)
 
 ---
 
@@ -57,6 +57,7 @@ You can explore the interactive dashboard through the live link below:
 ### 📌 4. Employee Profile (البيانات الشخصية)
 ![Personal](pages/Picture4.png)
 - **عند تحديد اسم الموظف سيظهر لك تفاصيل بياناته**
+
 ![Personal](pages/Picture7.png)
 
 **🎯 الهدف:**
