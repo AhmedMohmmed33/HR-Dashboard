@@ -14,7 +14,7 @@ The dashboard is built using **Power BI** and focuses on:
 You can explore the interactive dashboard through the live link below:
 
 🔗 **Open the Live Dashboard**  
-[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJkMDU3MjktNWUwZS00OWQxLTg4ZTMtMTRjYzAyZjNmY2FmIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=f272c68214863291e034)
+[Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJkMDU3MjktNWUwZS00OWQxLTg4ZTMtMTRjYzAyZjNmY2FmIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 
 ---
 
